@@ -22,9 +22,9 @@ Each quote includes:
 - Hint 3: First letter of the author’s last name
 - The game ends with a success message or reveals the correct author after all guesses are used.
 
-#Output
-"C:\Users\SURYADIP\OneDrive\Pictures\Screenshots\Screenshot 2025-11-05 013446.png"
-"C:\Users\SURYADIP\OneDrive\Pictures\Screenshots\Screenshot 2025-11-05 012623.png"
+# Output
+! ( C:\Users\SURYADIP\OneDrive\Pictures\Screenshots\Screenshot 2025-11-05 013446.png )
+! ( C:\Users\SURYADIP\OneDrive\Pictures\Screenshots\Screenshot 2025-11-05 012623.png" )
 
 
 
