@@ -22,9 +22,11 @@ Each quote includes:
 - Hint 3: First letter of the author’s last name
 - The game ends with a success message or reveals the correct author after all guesses are used.
 
-# Output
-! ( C:\Users\SURYADIP\OneDrive\Pictures\Screenshots\Screenshot 2025-11-05 013446.png )
-! ( C:\Users\SURYADIP\OneDrive\Pictures\Screenshots\Screenshot 2025-11-05 012623.png" )
+# Output :
+- streamli
+<img width="2726" height="1040" alt="Screenshot 2025-11-05 013446" src="https://github.com/user-attachments/assets/59f6eee9-6be9-43f0-84af-3cc41f1ef52d" />
+- terminal
+<img width="1642" height="1249" alt="Screenshot 2025-11-05 012623" src="https://github.com/user-attachments/assets/aaa05621-79b6-4729-bb23-d3321fc40320" />
 
 
 
